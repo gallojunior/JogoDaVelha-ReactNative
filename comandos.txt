@@ -1,0 +1,7 @@
+npx expo start
+
+depois que rodar aperta 'a' para o celular
+depois que rodar aperta 'w' para navegador 
+
+
+npx expo start --localhost --android
